@@ -133,4 +133,15 @@ body {
     body{
         font-size: 10px;
     }
+    #playlist-wrapper,#player-wrapper{
+        width:98%;
+        margin:5px auto;
+    }
+    #main-container{
+        width:100%;
+    }
+    #main-heading {
+        font-size:20px;
+    }
 }
+        
